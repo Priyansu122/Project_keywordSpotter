@@ -9,8 +9,8 @@ The idea is to develop a low-power keyword spotter hardware that recognizes the 
 - For the top level design in python first we have recorded a voice saying "hello neo"
 - We have resampled the signal at 4Khz and exported the audio in 8 bit PCM encoding using **audacity** tool.
 - You can serach about it in Chatgpt interaction [1].
-- Then Following Research paper [1] in the Resources section, we got the flow of getting cepstral coefficients.
-- The chatgpt interaction [2] gives us the fundamental code for KWS application.
+- Then Following Research paper [1] in the [Resources](#Resources) section, we got the flow of getting cepstral coefficients.
+- The chatgpt interaction [5] gives us the fundamental code for KWS application.
 #### Steps
 - We have 8 bit PCM encoded voice signal sampled at 4khz.
 - We have first converted that to serial bit file.
