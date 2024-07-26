@@ -3,7 +3,7 @@
 The idea is to develop a low-power keyword spotter hardware that recognizes the voice command "Wake up" and sends a high signal to activate a larger hardware system. This design ensures significant power savings by keeping the larger hardware in sleep mode until it receives the activation signal from the keyword spotter. The keyword spotter itself is designed to operate with minimal power consumption. A significant aspect of this project is leveraging today's generative AI tools like Chatgpt to efficiently research and design the hardware with minimal engineering effort.
 
 ## References
-- From [Chatgpt interaction](#Chatgpt_Interaction) [1], [2], [3], we got to know about Log mel filter bank.
+- From [Chatgpt interaction](#Chatgpt_Interaction) [2], [3], [4], we got to know about Log mel filter bank.
 - We have also used Primis.AI RapidGPT tool for fe verilog code blocks the link to that is : [RapidGPT_verilog](https://github.com/Priyansu122/Project_keywordSpotter/tree/main/RapidGPT_verilog)
 ### KWS application top level python code
 - For the top level design in python first we have recorded a voice saying "hello neo"
