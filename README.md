@@ -19,7 +19,14 @@ The idea is to develop a low-power keyword spotter hardware that recognizes the 
 - Finally the power and filter bank enegies was calculated
 - From there the MFCC coefficients are calculated.
 - Link to python file is : [KWS_python_script](https://github.com/Priyansu122/Project_keywordSpotter/blob/main/KWS_PythonScripts/MFCC_pythonScript.py)
-- 
+  </br>
+  </br>
+**Result graphs**  </br>
+  
+![download](https://github.com/user-attachments/assets/9644095c-4c6a-42b6-901b-f999e6b80861)
+
+![download](https://github.com/user-attachments/assets/00567a2b-c677-40dd-ad32-7958074da055)
+
 
 ## Resources
 1. [2006-EfficientMethodForMFCCextraction](https://github.com/Priyansu122/Project_keywordSpotter/blob/main/2006-EfficientMethodForMFCCextraction.pdf)
